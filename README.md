@@ -1,4 +1,4 @@
-# comp-560-project
+# comp-560-project 🤓
 ### TODO immediately
 - **Everyone create their own branch with username**
 - **Git pull frequently!**
