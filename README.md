@@ -1,8 +1,12 @@
 # comp-560-project
-## TODO immediately
-### Everyone install the required packes and check out the code
+### TODO immediately
+- **Everyone create their own branch with username**
+- **Git pull frequently!**
+- **Everyone install the required packes and check out the code**
 
-## Gameplan
-Questions
-What are we trying to predict?
-How do we keep dependencies consistent across our devices?
+### Gameplan
+- blank
+
+### Questions
+- What are we trying to predict?
+- How do we keep dependencies consistent across our devices?
