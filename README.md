@@ -1,3 +1,5 @@
+> Collaborators/group: Paul Signorelli, Christopher Sáez, Wisdom Okwen, Austin Campbell, Ethan Byrd, Will Scuria
+
 # Abstract: Predicting Bank Customer Churn Using Machine Learning and Deep Learning  
 
 Customer churn refers to the process of customers leaving a service or discontinuing their relationship with a business. This study develops both a traditional machine learning classifier and a deep learning model to predict customer churn based on past customer data, including demographic details, insurance history, and engagement metrics.  
